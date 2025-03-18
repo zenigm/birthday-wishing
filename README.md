@@ -11,8 +11,6 @@ This is a simple yet adorable **Happy Birthday** website featuring balloons, mus
 
 ## 🛠️ Technologies Used
 - HTML
-- CSS
-- JavaScript
 
 ## 🚀 Getting Started
 ### Prerequisites

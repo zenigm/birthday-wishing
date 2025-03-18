@@ -21,7 +21,7 @@ Ensure you have a modern web browser installed (Chrome, Firefox, Edge, etc.)
 ### Installation
 1. Clone this repository:
    ```sh
-   git clone https://github.com/zenigm/
+   git clone [https://github.com/zenigm/](https://github.com/zenigm/birthday-wishing/tree/main)
    ```
 2. Navigate to the project directory:
    ```sh
